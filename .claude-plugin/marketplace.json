@@ -1,0 +1,28 @@
+{
+  "name": "dodo-marketplace",
+  "owner": {
+    "name": "Dodo Digital",
+    "url": "https://github.com/dodo-digital"
+  },
+  "metadata": {
+    "description": "Claude Code plugins by Dodo Digital",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "create-hook",
+      "description": "Quickly scaffold Claude Code hooks with templates, validation, and conflict analysis",
+      "version": "1.0.0",
+      "author": {
+        "name": "Dodo Digital",
+        "url": "https://github.com/dodo-digital"
+      },
+      "homepage": "https://github.com/dodo-digital/create-hooks",
+      "tags": ["hooks", "automation", "scaffolding", "templates"],
+      "source": {
+        "source": "github",
+        "repo": "dodo-digital/create-hooks"
+      }
+    }
+  ]
+}
