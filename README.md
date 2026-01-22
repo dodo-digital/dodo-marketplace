@@ -12,13 +12,13 @@ Claude Code plugins by Dodo Digital.
 
 | Plugin | Description |
 |--------|-------------|
-| **create-hook** | Scaffold Claude Code hooks with templates, validation, and conflict analysis |
+| **create-hooks** | Scaffold Claude Code hooks with templates, validation, and conflict analysis |
 | **agent-pipelines** | Build, manage, and run autonomous agent workflows with stages, pipelines, and tmux sessions |
 
 ### Install a plugin
 
 ```bash
-/plugin install create-hook
+/plugin install create-hooks
 /plugin install agent-pipelines
 ```
 
