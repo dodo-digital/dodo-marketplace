@@ -17,11 +17,11 @@
         "name": "Dodo Digital",
         "url": "https://github.com/dodo-digital"
       },
-      "homepage": "https://github.com/dodo-digital/create-hooks",
+      "homepage": "https://github.com/hwells4/create-hooks",
       "tags": ["hooks", "automation", "scaffolding", "templates"],
       "source": {
         "source": "github",
-        "repo": "dodo-digital/create-hooks"
+        "repo": "hwells4/create-hooks"
       }
     },
     {
@@ -32,11 +32,11 @@
         "name": "Dodo Digital",
         "url": "https://github.com/dodo-digital"
       },
-      "homepage": "https://github.com/dodo-digital/agent-pipelines",
+      "homepage": "https://github.com/hwells4/agent-pipelines",
       "tags": ["agents", "automation", "pipelines", "workflows", "tmux"],
       "source": {
         "source": "github",
-        "repo": "dodo-digital/agent-pipelines"
+        "repo": "hwells4/agent-pipelines"
       }
     }
   ]
