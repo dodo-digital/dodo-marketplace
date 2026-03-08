@@ -12,7 +12,7 @@
     {
       "name": "create-hooks",
       "description": "Quickly scaffold Claude Code hooks with templates, validation, and conflict analysis",
-      "version": "1.0.0",
+      "version": "1.2.0",
       "author": {
         "name": "Dodo Digital",
         "url": "https://github.com/dodo-digital"
@@ -22,21 +22,6 @@
       "source": {
         "source": "github",
         "repo": "hwells4/create-hooks"
-      }
-    },
-    {
-      "name": "agent-pipelines",
-      "description": "Build, manage, and run autonomous agent workflows with stages, pipelines, and tmux sessions",
-      "version": "1.0.0",
-      "author": {
-        "name": "Dodo Digital",
-        "url": "https://github.com/dodo-digital"
-      },
-      "homepage": "https://github.com/hwells4/agent-pipelines",
-      "tags": ["agents", "automation", "pipelines", "workflows", "tmux"],
-      "source": {
-        "source": "github",
-        "repo": "hwells4/agent-pipelines"
       }
     }
   ]
